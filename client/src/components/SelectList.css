@@ -1,0 +1,13 @@
+.SelectList {
+  margin-top: -35px;
+}
+
+select {
+  width: 80%;
+  height: 40px;
+  border-style: solid;
+  border-width: 5px;
+  border-image: linear-gradient(to bottom, #81d59d, #25513a) 1;
+  margin: 0 auto;
+  display: block;
+}

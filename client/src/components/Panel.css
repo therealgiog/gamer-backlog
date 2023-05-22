@@ -1,0 +1,34 @@
+.Panel {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0;
+  font-size: 7vw;
+  text-align: center;
+  height: 100px;
+  background: linear-gradient(135deg, #156793, #022a62);
+  color: #fcd4f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20px;
+}
+
+#list-header {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0;
+  font-size: 7vw;
+  text-align: center;
+  height: 30px;
+  color: #43003a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
